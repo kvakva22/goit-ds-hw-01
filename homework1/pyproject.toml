@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "homework1"
+version = "0.1.0"
+description = ""
+authors = ["Arsenii"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.13.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
